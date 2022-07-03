@@ -1,4 +1,4 @@
-![Profile](https://github.com/VikkyMasih/VikkyMasih/blob/4498e6ab929b48f1ed58b0d3d4d3d5f01cbe9420/Profile.png)
+![Profile](https://github.com/VikkyMasih/VikkyMasih/blob/8088d71e53342c074cc155f289fd4f023042966d/Profile.jpg)
 
 <!--
 ### Hi there 👋
