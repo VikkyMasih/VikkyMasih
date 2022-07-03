@@ -1,6 +1,7 @@
-### Hi there 👋
+![Profile](https://github.com/VikkyMasih/VikkyMasih/blob/4498e6ab929b48f1ed58b0d3d4d3d5f01cbe9420/Profile.png)
 
 <!--
+### Hi there 👋
 **VikkyMasih/VikkyMasih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
