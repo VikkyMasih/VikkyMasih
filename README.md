@@ -1,1 +1,1 @@
-[![Website](/WebPage.jpg)](https://v.masih.page)
+[![Website](/WebPage.svg)](https://v.masih.page)
